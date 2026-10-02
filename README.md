@@ -60,18 +60,6 @@ An e-commerce company wants to understand customer shopping behaviour to improve
 
 9\. Previous Purchases vs Amount (Scatter)
 
-
-
-> \*\*Screenshots:\*\*
-
-> Add your screenshots here:
-
-> `!\[Dashboard](screenshots/dashboard.png)`
-
-> `!\[KPIs](screenshots/kpis.png)`
-
-
-
 \## 💡 Key Insights
 
 1\. \*\*California leads\*\* in both customer count and revenue – highest demand region.
@@ -117,10 +105,6 @@ An e-commerce company wants to understand customer shopping behaviour to improve
 \* `shopping\_behavior\_updated.csv.xlsx` - Cleaned dataset + Dashboard + Insights sheet
 
 \* `README.md` - Project documentation
-
-\* `/screenshots/` - Dashboard screenshots
-
-
 
 \---
 
