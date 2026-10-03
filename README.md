@@ -108,5 +108,3 @@ An e-commerce company wants to understand customer shopping behaviour to improve
 
 \---
 
-\*\*Author:\*\* \[Your Name] | \[LinkedIn] | \[GitHub]
-
